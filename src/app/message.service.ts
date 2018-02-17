@@ -12,5 +12,4 @@ export class MessageService {
   clear(): void {
     this.messages = [];
   }
-
 }
